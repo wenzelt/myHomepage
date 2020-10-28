@@ -14,4 +14,3 @@ jobs:
         ftp-server: sftp://lxhalle.in.tum.de/
         ftp-username: wenzelt
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        knownhosts: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDbnV7+Do+ilAaE5sh5iRzFNfMjzz6+iAP7FacUb2W4DRkvgF8lQXJdtwhGsmLujPfCwbMLm9ECZ1ehW8/twOP21tAcqw+6JyBEagLowW1zEk066PnnDoZFtritbd03R6NHySAjrROSpSS2C9S+rX9dqXKava5I5Si11VRW7ANfEsXn6faPE22WjEwsuaapyHmig1q6ZovDU+MV10PCXW1rs2quqtNrZjn+qD/gXPC6lMYgINitK1qZ0jnqiXE95tf2cNQZBPotP0RC1W5B6LOmg3Z1MNP3vcbDQ8b4Hp93RTQz2EdSM1Be/fbeHZwTDNWSs37TCfQey+JV03BH0JZx
