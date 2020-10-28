@@ -11,7 +11,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: sftp://lxhalle.in.tum.de/
+        ftp-server: sftp://lxhalle.in.tum.de:22/home_page/html-data/
         ftp-username: wenzelt
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --insecure
