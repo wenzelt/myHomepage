@@ -154,4 +154,4 @@ Project Link: [https://github.com/wenzelt/myHomepage](https://github.com/wenzelt
 
 [linkedin-url]: https://linkedin.com/in/tom-wenzel-4ba148102
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets/img/Website_Image.png
