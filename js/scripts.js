@@ -5,7 +5,7 @@
     */
     (function($) {
     "use strict"; // Start of use strict
-  
+
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
       if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -19,7 +19,7 @@
         }
       }
     });
-  
+
     // Scroll to top button appear
     $(document).scroll(function() {
       var scrollDistance = $(this).scrollTop();
@@ -29,18 +29,18 @@
         $('.scroll-to-top').fadeOut();
       }
     });
-  
+
     // Closes responsive menu when a scroll trigger link is clicked
     $('.js-scroll-trigger').click(function() {
       $('.navbar-collapse').collapse('hide');
     });
-  
+
     // Activate scrollspy to add active class to navbar items on scroll
     $('body').scrollspy({
       target: '#mainNav',
       offset: 80
     });
-  
+
     // Collapse Navbar
     var navbarCollapse = function() {
       if ($("#mainNav").offset().top > 100) {
@@ -53,7 +53,7 @@
     navbarCollapse();
     // Collapse the navbar when page is scrolled
     $(window).scroll(navbarCollapse);
-  
+
     // Floating label headings for the contact form
     $(function() {
       $("body").on("input propertychange", ".floating-label-form-group", function(e) {
@@ -64,6 +64,14 @@
         $(this).removeClass("floating-label-form-group-with-focus");
       });
     });
-  
-  })(jQuery); // End of use strict
-  
+
+    $(function calculate_age(dob) {
+        var diff_ms = Date.now() - dob.getTime();
+        var age_dt = new Date(diff_ms);
+
+        return Math.abs(age_dt.getUTCFullYear() - 1970);
+    })
+    document.getElementById("age").innerHTML = "Hi guys, great seeing you here! I am a " + (calculate_age(new Date(1996, 10, 10))) + " year old Information Systems student at the Technical University of Munich.  ";
+
+    })(jQuery); // End of use strict
+
