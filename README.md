@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://twenzel.online">
-    <img src="assets/img/avataaars.svg" alt="Logo" width="80" height="80">
+    <img src="assets/avataaars.svg" alt="Logo" width="80" height="80">
   </a>
 </p>
 
