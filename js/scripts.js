@@ -72,6 +72,7 @@
         return Math.abs(age_dt.getUTCFullYear() - 1970);
     })
     document.getElementById("age").innerHTML = "Hi guys, great seeing you here! I am a " + (calculate_age(new Date(1996, 10, 10))) + " year old Information Systems student at the Technical University of Munich.  ";
+    document.getElementById("copyright").innerHTML = "Copyright © TWenzel 2020";
 
     })(jQuery); // End of use strict
 
