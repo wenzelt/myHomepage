@@ -34,14 +34,13 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
-      - name: testing hetzner server ssh connection
+      - name: executing remote ssh commands using password
         uses: appleboy/ssh-action@master
-        with: 
-          host: 168.119.224.9
-          username: eddie
-          key: ${{secrets.MYHOMEPAGE_SECRET}}
-          port: 22
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
           script: | 
             cd /var/www/myHomepage/
             git pull origin main
