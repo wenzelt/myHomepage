@@ -43,5 +43,5 @@ jobs:
           port: ${{ secrets.PORT }}
           script: | 
             cd /var/www/myHomepage/
-            git pull origin main
+            git pull origin master
             git status
