@@ -34,14 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: executing remote ssh commands using password
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          port: ${{ secrets.PORT }}
-          script: | 
-            cd /var/www/myHomepage/
-            git pull origin master
-            git status
+      - name: S3 Sync
+        uses: jakejarvis/s3-sync-action@v0.5.1
