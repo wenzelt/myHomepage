@@ -7815,6 +7815,31 @@ button.bg-dark:focus {
   margin-top: -0.5rem !important;
 }
 
+/*!
+* Dev comments 
+* Here we put custom css. Dont ask why 
+*/
+
+.tech{
+  color: grey; 
+}
+
+.iframe-container {
+  overflow: hidden;
+  /* 16:9 aspect ratio */
+  padding-top: 56.25%;
+  position: relative;
+}
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+
 .mr-n2,
 .mx-n2 {
   margin-right: -0.5rem !important;

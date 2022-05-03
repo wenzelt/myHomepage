@@ -22,6 +22,8 @@
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css"/>
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet"/>
+    <link href="github-widget/github-widget.css" rel="stylesheet" type="text/css" />
+
 </head>
 <body id="page-top">
 <!-- Navigation-->
@@ -52,7 +54,7 @@
 <header class="masthead bg-primary text-white text-center">
     <div class="container d-flex align-items-center flex-column">
         <!-- Masthead Avatar Image-->
-        <img class="masthead-avatar mb-5" src="assets/avataaars.svg" alt=""/>
+        <img class="masthead-avatar mb-5" src="assets/RLGL_LOGO_BLACK.png" alt="assets/avataaars.svg"/>
         <!-- Masthead Heading-->
         <h1 class="masthead-heading text-uppercase mb-0">Welcome to my homepage</h1>
         <!-- Icon Divider-->
@@ -117,6 +119,10 @@
                 </div>
             </div>
         </div>
+
+        <div class="github-widget" data-user="wenzelt" data-options='{"sortBy":"date", "limit":6}'></div>
+
+          
     </div>
 </section>
 <!-- About Section-->
@@ -151,6 +157,8 @@
                     <a href="http://limehome.com">
     <span class="subheading mb-3" style="display: block;">
         limehome GmbH <i class="fas fa-database"></i>  </span>
+        <span class="subheading mb-3 tech" style="display: block;">
+            <b>Tech:</b> AWS Lambda, Cloudfront, Step Functions, S3, Google BigTable, Bigquery, Python, Jinja, CRM APIs,  </span>
                     </a>
 
 
@@ -168,6 +176,8 @@
                     <a href="http://limehome.com">
     <span class="subheading mb-3" style="display: block;">
         limehome GmbH <i class="fas fa-user-tie"></i>  </span>
+        <span class="subheading mb-3 tech" style="display: block;">
+            <b>Tech:</b> PHP, Raspbery Pi, JIRA </span>
                     </a>
                     <p>I started out overseeing software development for some of our core algorithmic pricing tooling.
                         Working in a strict SCRUM powered environment we tackled various challenges to optimize pricing
@@ -177,10 +187,15 @@
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Recording Assistant</h3>
+                    <h3 class="mb-0">Recording Manager</h3>
                     <a href="http://lecturio.de">
     <span class="subheading mb-3" style="display: block;">
         lecturio GmbH <i class="fas fa-video"></i>  </span>
+
+        <span class="subheading mb-3 tech" style="display: block;">
+            <b>Tech:</b> Raspberry Pi, Recording Equipment, Editing Software   </span>
+
+
                     </a>
                     <p>To boost income during my studies I started working with lecturio GmbH to record my university
                         lectures. The main focus of my responsibilities was communication with the professors, audio and
@@ -191,10 +206,13 @@
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
-                    <h3 class="mb-0">Intern/Assistant in SAP Corporate Finance IT</h3>
+                    <h3 class="mb-0">Assistant to H of SAP Corporate Finance IT</h3>
                     <a href="http://sap.com">
     <span class="subheading mb-3" style="display: block;">
         SAP AG <i class="fas fa-globe"></i>  </span>
+
+        <span class="subheading mb-3 tech" style="display: block;">
+            <b>Tech:</b> Management Role   </span>
                     </a>
                     <p>My work as an assistant to the head of Corporate Finance IT. Additionally I facilitated workshops
                         and brought SCRUM methodology closer to a group of 10 Managers and their staff.</p>
@@ -611,5 +629,7 @@
 
     return years;
     }</script>
+    <script src="github-widget/github-widget.min.js"></script>
+
 </body>
 </html>
