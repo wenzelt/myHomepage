@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T05:50:13.543Z" agent="5.0 (Macintosh)" etag="fhTgfJX8f79an3ppJmII" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T05:52:47.419Z" agent="5.0 (Macintosh)" etag="p9e02mMyll0gdKWBoIPf" version="20.1.1" type="github">
   <diagram id="IRsSvw7N2JVn_KLH-h0_" name="Page-1">
     <mxGraphModel dx="1868" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-51" value="&lt;div&gt;SAP SE (Intern)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Corporate Finance IT Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-51" value="&lt;div&gt;SAP SE (Intern)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Corporate Finance IT Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;fontStyle=1" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
           <mxGeometry x="-8" y="254" as="geometry">
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
