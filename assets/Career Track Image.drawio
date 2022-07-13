@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T05:48:19.778Z" agent="5.0 (Macintosh)" etag="Egoe5EcOXUtvMpt_4ADw" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T05:50:13.543Z" agent="5.0 (Macintosh)" etag="fhTgfJX8f79an3ppJmII" version="20.1.1" type="github">
   <diagram id="IRsSvw7N2JVn_KLH-h0_" name="Page-1">
     <mxGraphModel dx="1868" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="YoXsgUGoJQbxuJQZpZ67-17" value="Abitur" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="420" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-28" value="&lt;div&gt;Stealth Startup&lt;/div&gt;&lt;div&gt;CEO&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-28" value="&lt;div&gt;Stealth Startup&lt;/div&gt;&lt;div&gt;CEO&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry y="280" as="geometry">
             <mxPoint x="8" y="-4" as="offset" />
           </mxGeometry>
@@ -111,9 +111,6 @@
         <mxCell id="YoXsgUGoJQbxuJQZpZ67-35" value="" style="line;strokeWidth=1;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=18;perimeterSpacing=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;" parent="YoXsgUGoJQbxuJQZpZ67-30" vertex="1">
           <mxGeometry y="180" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-36" value="" style="line;strokeWidth=1;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=18;perimeterSpacing=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;" parent="YoXsgUGoJQbxuJQZpZ67-30" vertex="1">
-          <mxGeometry y="80" width="30" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="YoXsgUGoJQbxuJQZpZ67-37" value="" style="line;strokeWidth=1;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;" parent="YoXsgUGoJQbxuJQZpZ67-30" vertex="1">
           <mxGeometry width="30" height="10" as="geometry" />
         </mxCell>
@@ -126,16 +123,6 @@
         <mxCell id="YoXsgUGoJQbxuJQZpZ67-44" value="" style="line;strokeWidth=1;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="270" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-46" value="&lt;div&gt;Limehome GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jr. Data &amp;amp; Infrastructure Engineer&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="460" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-47" value="&lt;div&gt;Limehome GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business Intelligence Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="580" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YoXsgUGoJQbxuJQZpZ67-48" value="&lt;div&gt;TU Munich&lt;/div&gt;&lt;div&gt;Research Student&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="760" y="460" as="geometry">
             <mxPoint x="8" y="-4" as="offset" />
@@ -146,53 +133,66 @@
             <mxPoint x="6" y="-137" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-50" value="&lt;div&gt;TU Munich&lt;/div&gt;&lt;div&gt;&amp;nbsp;Paper Acceptance PETS 2022&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-50" value="&lt;div&gt;TU Munich&lt;/div&gt;&lt;div&gt;&amp;nbsp;Paper Acceptance PETS 2022&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry x="760" y="414" as="geometry">
             <mxPoint x="6" y="-137" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-51" value="&lt;div&gt;SAP SE (Intern)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Corporate Finance IT Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="710" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-52" value="&lt;div&gt;SAP SE (Intern)&lt;/div&gt;&lt;div&gt;Innovation Control Center&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="970" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-53" value="&lt;div&gt;Lecturio GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recording Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="820" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-54" value="&lt;div&gt;Discrete Mathematics&lt;/div&gt;&lt;div&gt;Calculus&lt;/div&gt;&lt;div&gt;Linear Algebra&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="970" as="geometry">
-            <mxPoint x="8" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-55" value="&lt;div&gt;Algorithms&lt;/div&gt;&lt;div&gt;Data Structures&lt;/div&gt;&lt;div&gt;Theoretical Informatics&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="820" as="geometry">
-            <mxPoint x="1" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-56" value="&lt;div&gt;Project Management&lt;/div&gt;&lt;div&gt;Software Patterns&lt;/div&gt;&lt;div&gt;Systems Engineering&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="700" as="geometry">
-            <mxPoint x="1" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-57" value="&lt;div&gt;Functional Programming&lt;/div&gt;&lt;div&gt;Autonomous Software Engineering&lt;/div&gt;&lt;div&gt;Cloud Computing&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="585" as="geometry">
-            <mxPoint x="1" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YoXsgUGoJQbxuJQZpZ67-58" value="&lt;div&gt;Distributed Systems&lt;/div&gt;&lt;div&gt;Automation and Process Optimization&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="300" y="460" as="geometry">
-            <mxPoint x="1" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mFabG4U3AkvwDeqXhMFr-1" value="&lt;div&gt;Masters Thesis&lt;br&gt;&lt;/div&gt;&lt;div&gt;GDPR and Privacy Investigation&lt;/div&gt;&lt;div&gt;(ongoing)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="mFabG4U3AkvwDeqXhMFr-1" value="&lt;div&gt;Masters Thesis&lt;br&gt;&lt;/div&gt;&lt;div&gt;GDPR and Privacy Investigation&lt;/div&gt;&lt;div&gt;(ongoing)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="280" as="geometry">
+            <mxPoint x="1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFabG4U3AkvwDeqXhMFr-2" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="8" y="456" width="310" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-46" value="&lt;div&gt;Limehome GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jr. Data &amp;amp; Infrastructure Engineer&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="-8" y="4" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-47" value="&lt;div&gt;Limehome GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business Intelligence Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="-8" y="124" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-51" value="&lt;div&gt;SAP SE (Intern)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Corporate Finance IT Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="-8" y="254" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-52" value="&lt;div&gt;SAP SE (Intern)&lt;/div&gt;&lt;div&gt;Innovation Control Center&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="-8" y="514" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-53" value="&lt;div&gt;Lecturio GmbH&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recording Manager&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="-8" y="364" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-54" value="&lt;div&gt;Discrete Mathematics&lt;/div&gt;&lt;div&gt;Calculus&lt;/div&gt;&lt;div&gt;Linear Algebra&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="302" y="514" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-55" value="&lt;div&gt;Algorithms&lt;/div&gt;&lt;div&gt;Data Structures&lt;/div&gt;&lt;div&gt;Theoretical Informatics&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="302" y="364" as="geometry">
+            <mxPoint x="1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-56" value="&lt;div&gt;Project Management&lt;/div&gt;&lt;div&gt;Software Patterns&lt;/div&gt;&lt;div&gt;Systems Engineering&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="302" y="244" as="geometry">
+            <mxPoint x="1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-57" value="&lt;div&gt;Functional Programming&lt;/div&gt;&lt;div&gt;Autonomous Software Engineering&lt;/div&gt;&lt;div&gt;Cloud Computing&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="302" y="129" as="geometry">
+            <mxPoint x="1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YoXsgUGoJQbxuJQZpZ67-58" value="&lt;div&gt;Distributed Systems&lt;/div&gt;&lt;div&gt;Automation and Process Optimization&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Roboto;labelBackgroundColor=none;" parent="mFabG4U3AkvwDeqXhMFr-2" vertex="1" connectable="0">
+          <mxGeometry x="292" y="4" as="geometry">
             <mxPoint x="1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
