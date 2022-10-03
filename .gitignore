@@ -11,6 +11,15 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/jsLibraryMappings.xml
+.idea/**/modules.xml
+.idea/**/myHomepage.iml
+.idea/**/vcs.xml
+.idea/**/inspectionProfiles/
+
+
+.DS_Store
+
 
 # AWS User-specific
 .idea/**/aws.xml
